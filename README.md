@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
-This project is Tic Tac Toe Game Application. 
+# Tic_Tac_Toe-Game
+This is Tic-Tac-Toe game Application. 
